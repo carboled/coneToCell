@@ -1,7 +1,8 @@
 # coneToCell
 Author: Carlos Arboleda  <br>
-UGENT email: carlosemilio.arboledachavez@ugent.be  <br>
-Personal email: car_boleda@hotmail.com
+Contact: <br>
+email (UGent): carlosemilio.arboledachavez@ugent.be  <br>
+email (Personal): car_boleda@hotmail.com
 
 coneToCell function for openFoam/foam-extend usage
 

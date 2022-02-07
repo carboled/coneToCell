@@ -4,7 +4,7 @@ Contact: <br>
 email (UGent): carlosemilio.arboledachavez@ugent.be  <br>
 email (Personal): car_boleda@hotmail.com
 
-coneToCell function for openFoam/foam-extend usage
+coneToCell function for openFoam/foam-extend usage, modified from the function cylinderToCell.
 
 After file download place yourself in the coneToCell folder (not the coneToCell/coneToCell folder) and compile the new library:
 

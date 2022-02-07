@@ -6,7 +6,7 @@ email (Personal): car_boleda@hotmail.com
 
 coneToCell function for openFoam/foam-extend usage
 
-After file download place yourself in the coneToCell folder (not the coneToCell/coneToCell folder):
+After file download place yourself in the coneToCell folder (not the coneToCell/coneToCell folder) and compile the new library:
 
     cd coneToCell
     wclean && wmake libso

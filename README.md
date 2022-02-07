@@ -6,7 +6,7 @@ email (Personal): car_boleda@hotmail.com
 
 coneToCell function for openFoam/foam-extend usage
 
-After file download:
+After file download place yourself in the coneToCell folder (not the coneToCell/coneToCell folder):
 
     cd coneToCell
     wclean && wmake libso
@@ -15,7 +15,7 @@ Once compilation is over add the following to the system/controlDict file:
 
     libs
       (
-        "libMeshTools.so"
+        "libCATools.so"
       );
   
 Usage in system/setFieldsDict:

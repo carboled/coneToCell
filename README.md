@@ -28,8 +28,8 @@ Usage in system/setFieldsDict:
           volScalarFieldValue  porosityIndex  1
           volVectorFieldValue  U (0.000000 0.000000 0.000000)
         );
-      p1 (2.25 1.0 0.0); // lower scour protection radius
-      p2 (2.25 1.0 0.12300000000000001); // upper scour protection radius
+      p1 (2.25 1.0 0.0); // lower scour protection center
+      p2 (2.25 1.0 0.12300000000000001); // upper scour protection center
       radius1 0.45326056233274303; // lower scour protection radius 
       radius2 0.346739437667257; // upper scour protection radius
 

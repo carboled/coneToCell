@@ -3,14 +3,14 @@ coneToCell function for openFoam
 
 After file download:
 
-cd coneToCell
-wclean && wmake libso
+  cd coneToCell
+  wclean && wmake libso
 
 Once compilation is over add the following to the system/controlDict file:
-libs
-  (
-    "myLibmeshTools.so"
-  );
+  libs
+    (
+      "libmeshTools.so"
+    );
   
 Usage in system/setFieldsDict:
 

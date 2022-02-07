@@ -10,7 +10,7 @@ Once compilation is over add the following to the system/controlDict file:
 
     libs
       (
-        "libmeshTools.so"
+        "libMeshTools.so"
       );
   
 Usage in system/setFieldsDict:

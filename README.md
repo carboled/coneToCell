@@ -1,5 +1,5 @@
 # coneToCell
-Author: Carlos Arboleda  <br>
+Author: [Carlos Arboleda] (https://github.com/carboled)  <br>
 Contact: <br>
 email (UGent): carlosemilio.arboledachavez@ugent.be  <br>
 email (Personal): car_boleda@hotmail.com

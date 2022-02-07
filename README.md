@@ -1,5 +1,9 @@
 # coneToCell
-coneToCell function for openFoam
+Author: Carlos Arboleda
+UGENT email: carlosemilio.arboledachavez@ugent.be
+Personal email: car_boleda@hotmail.com
+
+coneToCell function for openFoam/foam-extend usage
 
 After file download:
 
